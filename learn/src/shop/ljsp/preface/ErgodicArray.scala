@@ -15,11 +15,15 @@ object ErgodicArray {
     val nums=List(1,2,3,4,5).filter(_<4)
     nums.foreach((u:Int)=>println(u*2))
   }
+  def dropTake(): Unit ={
+    println("scala".drop(2).take(2).capitalize)
+  }
   def main(args: Array[String]): Unit = {
 //    forArray()
-    forYield()
+//    forYield()
 //    forMap()
 //    listFilter()
+    dropTake()
   }
 
 }

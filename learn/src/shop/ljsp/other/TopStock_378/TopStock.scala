@@ -1,4 +1,4 @@
-package shop.ljsp.unit1.TopStock_378
+package shop.ljsp.other.TopStock_378
 
 class TopStock {
   val symbols=List("AMD","AAPL","AMZN","IM","ORCL","MSFT")

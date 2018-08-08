@@ -1,4 +1,4 @@
-package shop.ljsp.unit1.TopStock_378
+package shop.ljsp.other.TopStock_378
 
 class unit1_634_upper1 {
   def upper(strings:String*):Seq[String]={
